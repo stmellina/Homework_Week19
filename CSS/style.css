@@ -1,0 +1,133 @@
+
+#leftscren { 
+    height: 99px;
+    width: 468; 
+    margin: 35px;
+    padding: 35px; 
+}
+
+.name {
+    font-size: 75px;
+    font-family:'Baloo Thambi 2', cursive;
+    padding: auto;
+    margin: 35px; 
+}
+
+.job { 
+    font-size: 24px;
+    font-family:'Baloo Thambi 2', cursive;
+    Justify-content: 150px; 
+}
+
+
+.instagram { 
+    height: 50px; 
+    width: 50px; 
+}
+
+.linkedin { 
+    height: 50px; 
+    width: 50px; 
+}
+
+.resume { 
+    font-size: 24px; 
+    padding: 15px 32px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px;
+    background-color: #333;
+    border-radius: 8px;
+    color: white;
+    transition: ease-in .5s;
+}
+
+.resume:hover {
+    background-color: rgb(14, 13, 13);
+}
+
+.contact { 
+    font-size: 24px; 
+    padding: 15px 32px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-family: 'Roboto', sans-serif;
+    margin: 50px;
+    background-color: #333;
+    border-radius: 8px;
+    color: white;
+    transition: ease-in .5s;
+}
+
+.contact:hover {
+    background-color: rgb(14, 13, 13);
+}
+
+#carouselExampleControls { 
+    width: 840px;
+    height: 700px;
+    background-color: #333;
+    margin:100px;
+    padding: 5px;
+    grid-area: rightscreen; 
+}
+
+.flipscreen { 
+    height: auto;
+    width: 272px; 
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.ustdscreen { 
+    height: auto;
+    width: 272px; 
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.ciscreen { 
+    height: auto;
+    width: 272px; 
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 22px;
+    font-family: "Open Sans", helvetica, sans-serif;
+  }
+  #dropDown {
+    display: none;
+  }
+  
+  #toggle {
+    background-color: #FF6767;
+    padding: 15px;
+    color: white;
+    font-weight: 500;
+    cursor: pointer; 
+  }
+  
+  ul {
+    margin:0;
+    padding: 0;
+    list-style-type:none;
+  }
+  li {
+    margin:0;
+    padding: 15px;
+    border: 1px solid black;
+  }
+ 
